@@ -15,6 +15,8 @@ GrabCAD: Free to join free marketplace.
 Thangs: Free to join big selection free entry contests useful features free marketplace beginner friendly.
 Thingiverse: Free to join big selection remixes free marketplace beginner friendly.
 
+***
+
 ![3D Printers](https://github.com/sourceduty/3D_Printing/assets/123030236/76c676a4-aae3-4d84-a06b-661ca207b53c)
 
 ### 3D Printers
@@ -46,6 +48,8 @@ more often than American 3D printers.
 In any method maintaining a 3D printer as a hobby and/or a profession is a lot of work. 
 Determining if you are a professional or hobbyist is difficult and complicates the initial
 decision to buy a 3D printer.
+
+***
 
 ![3D Filament](https://github.com/sourceduty/3D_Printing/assets/123030236/91d96ca7-d809-4c51-b933-6fad0f919069)
 
