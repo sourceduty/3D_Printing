@@ -3,16 +3,27 @@
 ### 3D Marketplaces
 
 Cults3D: Free to join very popular beginner friendly free entry contests huge selection 20% total sales commission.
+
 CGTrader: Free to join big selection low 6% total sales commission.
+
 Cubebrush: Free to join apply to sell big selection 10% to 30% total sales commission.
+
 TurboSquid: Free to join big selection low 15% total sales commission.
+
 3DExport: Free to join big selection 20% to 40% total sales commission.
+
 DAZ3D: Apply to join 50% total sales commission.
+
 3Docean: Free to join big selection 15% total sales commission.
+
 Sketchfab: Free to join apply for selling 12% total sales commission.
+
 MyMiniFactory: Free to join 8% total sales commission.
+
 GrabCAD: Free to join free marketplace.
+
 Thangs: Free to join big selection free entry contests useful features free marketplace beginner friendly.
+
 Thingiverse: Free to join big selection remixes free marketplace beginner friendly.
 
 ***
