@@ -42,16 +42,6 @@ Most 3D printer owners are hobbyists and spend under $500 CDN on their first 3D
 printer(s). Professional 3D printer owners spend more on their 3D printer and they will
 order spare parts in advance. 
 
-- Cheap machine quality. 
-- Abundant cheap parts. 
-- Limited customer service. 
-- Cheap reputation. 
-
-- Machine build quality is better. 
-- Very good reputation. 
-- Great customer service. 
-- Future planning. 
-
 Chinese 3D printers are inexpensive for North American buyers and also Chinese
 manufacturers. These 3D printers have flooded the marketplaces and are purchased
 more often than American 3D printers. 
