@@ -66,9 +66,7 @@ Notes:
 - Biodegradable 3D printer filament should be sold in stores now and not in the future.
 - Glow in the dark filaments are very abrasive and wear down 3D printer nozzles quicker than normal
 
-#
-
-Future 3D Printer Plastic Ideas:
+### Future 3D Printer Plastic Ideas
 
 1. Stress indicating 3D printer plastic.
 2. X-ray indication 3D printer plastic.
