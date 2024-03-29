@@ -64,7 +64,9 @@ Notes:
 - Most clear or transparent 3D printer filament doesn’t adhere to build plates or itself very well.
 - Plastic filament storage spools should be banned.
 - Biodegradable 3D printer filament should be sold in stores now and not in the future.
-- Glow in the dark filaments are very abrasive and wear down 3D printer nozzles quicker than normal
+- Glow in the dark filaments are very abrasive and wear down 3D printer nozzles quicker than normal.
+
+#
 
 ### Future 3D Printer Plastic Ideas
 
