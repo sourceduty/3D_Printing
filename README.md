@@ -104,6 +104,12 @@ Potential Applications:
 [3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
 <br>
 [Cults: Sourceduty](https://cults3d.com/en/users/sourceduty)
+<br>
+[3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
+<br>
+[Automated 3D modelling](https://github.com/sourceduty/Automated_3D_Modelling)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
