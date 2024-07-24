@@ -1,5 +1,8 @@
 ![Image1](https://github.com/sourceduty/3D_Printing/assets/123030236/0f9ca964-03e1-4f0e-ac5f-5f151d2ec302)
 
+> 3D models, printers and filament.
+
+#
 ### 3D Marketplaces
 
 Cults3D: Free to join very popular beginner friendly free entry contests huge selection 20% total sales commission.
@@ -30,6 +33,7 @@ Thingiverse: Free to join big selection remixes free marketplace beginner friend
 
 ![3D Printers](https://github.com/sourceduty/3D_Printing/assets/123030236/76c676a4-aae3-4d84-a06b-661ca207b53c)
 
+#
 ### 3D Printers
 
 3D printers are machines with moving parts that will inevitably wear out. The parts that
@@ -54,6 +58,7 @@ decision to buy a 3D printer.
 
 ![3D Filament](https://github.com/sourceduty/3D_Printing/assets/123030236/91d96ca7-d809-4c51-b933-6fad0f919069)
 
+#
 ### 3D Printer Filament
 
 Polymaker is the best brand and they have a wide selection of colours. Polylactic acid (PLA) thermoplastic is the most popular are most available plastic 3D printer filament. Sourceduty uses Polymaker Polyterra Matte PLA 1.75 filament for 95% of it’s 3D prints. Polyterra is very strong, rich coloured and can be tied into a knot because it’s very malleable.
@@ -86,6 +91,19 @@ Color-changing Properties:
 
 Potential Applications:
 - Vehicle tires could change color when they are too old and stressed.
+
+#
+### Related Links
+
+[Concept Design](https://github.com/sourceduty/Concept_Design)
+<br>
+[Cults 3D](https://github.com/sourceduty/Cults_3D)
+<br>
+[Cura Infocard](https://github.com/sourceduty/Cura_Infocard)
+<br>
+[3D Model Imaging](https://github.com/sourceduty/3D_Model_Imaging)
+<br>
+[Cults: Sourceduty](https://cults3d.com/en/users/sourceduty)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
