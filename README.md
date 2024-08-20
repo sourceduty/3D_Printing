@@ -110,6 +110,8 @@ Potential Applications:
 [Automated 3D modelling](https://github.com/sourceduty/Automated_3D_Modelling)
 <br>
 [Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[3D Model Analysis](https://github.com/sourceduty/3D_Model_Analysis)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
