@@ -18,36 +18,25 @@ Multiaxis machining tools, on the other hand, offer a greater range of motion an
 #
 ### 3D Marketplaces
 
+```
 Cults3D: Free to join very popular beginner friendly free entry contests huge selection 20% total sales commission.
-
 CGTrader: Free to join big selection low 6% total sales commission.
-
 Cubebrush: Free to join apply to sell big selection 10% to 30% total sales commission.
-
 TurboSquid: Free to join big selection low 15% total sales commission.
-
 3DExport: Free to join big selection 20% to 40% total sales commission.
-
 DAZ3D: Apply to join 50% total sales commission.
-
 3Docean: Free to join big selection 15% total sales commission.
-
 Sketchfab: Free to join apply for selling 12% total sales commission.
-
 MyMiniFactory: Free to join 8% total sales commission.
-
 GrabCAD: Free to join free marketplace.
-
 Thangs: Free to join big selection free entry contests useful features free marketplace beginner friendly.
-
 Thingiverse: Free to join big selection remixes free marketplace beginner friendly.
-
-***
-
-![3D Printers](https://github.com/sourceduty/3D_Printing/assets/123030236/76c676a4-aae3-4d84-a06b-661ca207b53c)
+```
 
 #
 ### 3D Printers
+
+![3D Printers](https://github.com/sourceduty/3D_Printing/assets/123030236/76c676a4-aae3-4d84-a06b-661ca207b53c)
 
 3D printers are machines with moving parts that will inevitably wear out. The parts that
 wear out are not easy to produce with other machine tools. The 3D printer needs to be
@@ -67,12 +56,10 @@ In any method maintaining a 3D printer as a hobby and/or a profession is a lot o
 Determining if you are a professional or hobbyist is difficult and complicates the initial
 decision to buy a 3D printer.
 
-***
+#
+### 3D Printer Plastic Filament
 
 ![3D Filament](https://github.com/sourceduty/3D_Printing/assets/123030236/91d96ca7-d809-4c51-b933-6fad0f919069)
-
-#
-### 3D Printer Filament
 
 Polymaker is the best brand and they have a wide selection of colours. Polylactic acid (PLA) thermoplastic is the most popular are most available plastic 3D printer filament. Sourceduty uses Polymaker Polyterra Matte PLA 1.75 filament for 95% of it’s 3D prints. Polyterra is very strong, rich coloured and can be tied into a knot because it’s very malleable.
 
@@ -118,6 +105,10 @@ Food 3D printing is an innovative technology that uses edible materials to creat
 ![3D Ice Cream](https://github.com/user-attachments/assets/381b2a62-2909-40d8-a1fd-ba004a679330)
 
 Ice 3D printing, on the other hand, involves using water as the primary material, freezing it layer by layer to form complex structures. While still an emerging field, ice 3D printing has potential applications in art installations, architecture, and environmental research. The process requires careful temperature control to ensure that the ice solidifies before additional layers are added, preventing melting or collapsing. Ice printing is also being explored as a sustainable building material for temporary structures or experiments in cold environments like Antarctica, where the use of ice is abundant and practical.
+
+#
+
+![Green Uzi](https://github.com/user-attachments/assets/3545c8f8-e38b-4537-9311-a9ad0e1dee9d)
 
 #
 ### Related Links
