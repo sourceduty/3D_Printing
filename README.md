@@ -16,6 +16,13 @@ A linear 3D printer operates using a system of coordinated movements along three
 Multiaxis machining tools, on the other hand, offer a greater range of motion and flexibility, using additional rotational axes along with linear ones. These machines, often equipped with 4 or 5 axes, can move the tool or the workpiece in complex ways, enabling more intricate cuts and shapes. Multiaxis machining is especially critical in industries like aerospace, automotive, and medical devices, where precision and complex geometries are required. The ability to machine from multiple angles reduces the need for repositioning the workpiece, improving both efficiency and accuracy.
 
 #
+### 4D Printing
+
+4D printing is an advanced technology that builds on the foundation of 3D printing by adding the element of time to the equation. In 4D printing, the printed objects are designed to change their shape or properties over time in response to external stimuli, such as heat, moisture, or light. This capability is achieved by using specially engineered materials, often referred to as "smart materials," which can morph or reconfigure themselves when exposed to specific conditions. Unlike traditional 3D printing, where the structure remains static after creation, 4D printing allows for dynamic, self-adapting structures.
+
+The potential applications of 4D printing are vast and span several industries, including healthcare, construction, aerospace, and fashion. For example, in medicine, it could be used to create stents or implants that adjust themselves to fit perfectly within the body after insertion. In construction, materials could be printed that automatically adjust to environmental conditions, improving energy efficiency. The technology is still in its early stages, but its ability to create objects that adapt over time has sparked significant interest for future innovations in various fields.
+
+#
 ### Sourceduty 3D Printing
 
 ![3D Printing Meme](https://github.com/user-attachments/assets/86e1cd07-ce6f-461b-bf85-8696716177d6)
