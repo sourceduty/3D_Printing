@@ -16,6 +16,15 @@ A linear 3D printer operates using a system of coordinated movements along three
 Multiaxis machining tools, on the other hand, offer a greater range of motion and flexibility, using additional rotational axes along with linear ones. These machines, often equipped with 4 or 5 axes, can move the tool or the workpiece in complex ways, enabling more intricate cuts and shapes. Multiaxis machining is especially critical in industries like aerospace, automotive, and medical devices, where precision and complex geometries are required. The ability to machine from multiple angles reduces the need for repositioning the workpiece, improving both efficiency and accuracy.
 
 #
+### Submerged 3D Printing
+
+![Underwater 3D Printing](https://github.com/user-attachments/assets/2a894e65-ef9c-4519-b1fe-3967f956433c)
+
+Submerged 3D printing, as depicted in the image, involves the use of liquid to surround the 3D printing environment, most likely water or a specialized fluid. This method is employed to enhance cooling during the printing process and control thermal expansion and warping, especially when working with high-temperature materials. The liquid medium helps maintain a consistent temperature, ensuring the printed object maintains dimensional accuracy as it cools more evenly compared to traditional air-cooled methods. Submerged printing can be beneficial in producing parts that need precise geometries or for materials prone to warping or cracking under rapid temperature fluctuations.
+
+In the image, a person is monitoring the submerged 3D printing process on their laptop while the printer is actively working inside a liquid-filled enclosure. The printer operates similarly to conventional 3D printers, but the liquid environment provides additional cooling and thermal stability to the extruded filament. This method is particularly useful in advanced manufacturing applications, where material properties need to be carefully controlled, such as in aerospace or biomedical industries. The setup combines the efficiency of traditional 3D printing with enhanced thermal management, making it an innovative approach to creating high-quality printed objects.
+
+#
 ### 4D Printing
 
 4D printing is an advanced technology that builds on the foundation of 3D printing by adding the element of time to the equation. In 4D printing, the printed objects are designed to change their shape or properties over time in response to external stimuli, such as heat, moisture, or light. This capability is achieved by using specially engineered materials, often referred to as "smart materials," which can morph or reconfigure themselves when exposed to specific conditions. Unlike traditional 3D printing, where the structure remains static after creation, 4D printing allows for dynamic, self-adapting structures.
@@ -150,6 +159,10 @@ Ice 3D printing, on the other hand, involves using water as the primary material
 #
 
 ![3D](https://github.com/user-attachments/assets/4b42a3a4-8515-4660-b734-748ed6048128)
+
+#
+
+![Meme](https://github.com/user-attachments/assets/6625d808-8c0a-4a8b-8dba-00ec1609c072)
 
 #
 ### Related Links
