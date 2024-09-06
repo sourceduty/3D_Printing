@@ -16,6 +16,13 @@ A linear 3D printer operates using a system of coordinated movements along three
 Multiaxis machining tools, on the other hand, offer a greater range of motion and flexibility, using additional rotational axes along with linear ones. These machines, often equipped with 4 or 5 axes, can move the tool or the workpiece in complex ways, enabling more intricate cuts and shapes. Multiaxis machining is especially critical in industries like aerospace, automotive, and medical devices, where precision and complex geometries are required. The ability to machine from multiple angles reduces the need for repositioning the workpiece, improving both efficiency and accuracy.
 
 #
+### Sourceduty 3D Printing
+
+![3D Printing Meme](https://github.com/user-attachments/assets/86e1cd07-ce6f-461b-bf85-8696716177d6)
+
+Sourceduty designs custom 3D models, utilizing platforms like Cults3D to distribute these models and operates through a collaborative framework that ensures fair distribution of designs and profits. The platform supports various 3D printing materials and methods, helping users produce high-quality, customizable parts, whether for hobbyist or professional use.
+
+#
 ### 3D Marketplaces
 
 ```
