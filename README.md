@@ -25,7 +25,7 @@ The potential applications of 4D printing are vast and span several industries, 
 #
 ### Sourceduty 3D Printing
 
-![3D Printing Meme](https://github.com/user-attachments/assets/86e1cd07-ce6f-461b-bf85-8696716177d6)
+![3D Model Shipping](https://github.com/user-attachments/assets/916827cd-662e-4139-a10a-c56a4a817653)
 
 Sourceduty designs custom 3D models, utilizing platforms like Cults3D to distribute these models and operates through a collaborative framework that ensures fair distribution of designs and profits. The platform supports various 3D printing materials and methods, helping users produce high-quality, customizable parts, whether for hobbyist or professional use.
 
@@ -159,6 +159,12 @@ Ice 3D printing, on the other hand, involves using water as the primary material
 [3D Model Analysis](https://github.com/sourceduty/3D_Model_Analysis)
 <br>
 [4D Printing](https://github.com/sourceduty/4D_Printing)
+<br>
+[Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
+<br>
+[3D Model Analysis](https://github.com/sourceduty/3D_Model_Analysis)
+<br>
+[3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
