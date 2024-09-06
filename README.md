@@ -64,6 +64,15 @@ Determining if you are a professional or hobbyist is difficult and complicates t
 decision to buy a 3D printer.
 
 #
+### 3D Construction
+
+![3D Construction](https://github.com/user-attachments/assets/be7851a6-ebd4-482a-9824-0ce7a03c392f)
+
+3D concrete printing systems utilize a gantry-based structure to automate the construction of concrete buildings. These system operates by extruding layers of concrete through a nozzle mounted on a movable gantry frame, capable of traversing a predetermined construction area. The gantry’s design allows for precise, controlled deposition of material, eliminating the need for traditional cranes and scaffolding. As the system follows a programmed path, it constructs walls and other architectural elements in situ, creating highly customizable structures. By utilizing digital design models, the system can adapt to complex geometries, offering flexibility in architectural form while maintaining structural integrity.
+
+This concept presents several potential advantages for the future of construction. First, the gantry-based 3D printing method enhances efficiency by reducing labor costs and minimizing material waste, as the system deposits concrete only where needed. Second, the process allows for rapid construction, especially in large-scale projects, as it operates continuously without the delays typical of conventional methods. Additionally, the system’s automation reduces the margin for human error, improving overall construction accuracy. This innovative approach to construction could offer a sustainable, cost-effective solution to the growing demand for rapid infrastructure development in both urban and remote areas.
+
+#
 ### 3D Printer Plastic Filament
 
 ![3D Filament](https://github.com/sourceduty/3D_Printing/assets/123030236/91d96ca7-d809-4c51-b933-6fad0f919069)
@@ -116,6 +125,10 @@ Ice 3D printing, on the other hand, involves using water as the primary material
 #
 
 ![Green Uzi](https://github.com/user-attachments/assets/3545c8f8-e38b-4537-9311-a9ad0e1dee9d)
+
+#
+
+![3D](https://github.com/user-attachments/assets/4b42a3a4-8515-4660-b734-748ed6048128)
 
 #
 ### Related Links
