@@ -34,6 +34,8 @@ The potential applications of 4D printing are vast and span several industries, 
 #
 ### Sourceduty 4D Future
 
+![3D](https://github.com/user-attachments/assets/eecc456d-579c-42c3-9d44-77c658a80362)
+
 Sourceduty is uniquely positioned to excel in the evolving 4D printing landscape due to its deep foundation in 3D model design and open-source development. As a designer, Sourceduty offers a wide array of digital assets, with over 200 3D models and growing. By leveraging its established expertise in creating intricate, functional 3D models, Sourceduty can easily transition into the 4D printing industry, where designs require the ability to transform or adapt over time based on environmental stimuli. This ability to create dynamic and responsive models will make Sourceduty a valuable player in industries requiring adaptive materials, such as healthcare, smart textiles, and advanced robotics​.
 
 In future 4D model marketplaces, Sourceduty’s focus on high-quality, customizable designs will provide a competitive advantage. As marketplaces for 4D models grow, consumers will seek models that not only look good but also function in real-time environments. Sourceduty's extensive experience in collaborative design platforms and its emphasis on interactivity, such as integrating AI-assisted tools like DALL-E for conceptual development, ensures that it remains ahead of trends. These models, with their ability to respond to stimuli like temperature or light, will be highly sought after for both industrial and consumer applications​.
