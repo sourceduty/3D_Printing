@@ -190,7 +190,7 @@ Ice 3D printing, on the other hand, involves using water as the primary material
 
 #
 
-![LULZBOT](https://github.com/user-attachments/assets/a8597d75-4ddd-41f3-afee-249c3457e9ea)
+![Automate](https://github.com/user-attachments/assets/6a995323-17da-4540-8a77-5a72d7434a1b)
 
 #
 ### Related Links
