@@ -1,4 +1,4 @@
-![Image](https://github.com/sourceduty/3D_Printing/assets/123030236/0f9ca964-03e1-4f0e-ac5f-5f151d2ec302)
+![jh2](https://github.com/user-attachments/assets/aff34084-fa66-41c5-b026-6a9b5919ca6e)
 
 > 3D models, printers and filament.
 
@@ -46,6 +46,8 @@ The potential applications of 4D printing are vast and span several industries, 
 
 #
 ### Sourceduty 4D Future
+
+![Image](https://github.com/sourceduty/3D_Printing/assets/123030236/0f9ca964-03e1-4f0e-ac5f-5f151d2ec302)
 
 Sourceduty is uniquely positioned to excel in the evolving 4D printing landscape due to its deep foundation in 3D model design and open-source development. As a designer, Sourceduty offers a wide array of digital assets, with over 200 3D models and growing. By leveraging its established expertise in creating intricate, functional 3D models, Sourceduty can easily transition into the 4D printing industry, where designs require the ability to transform or adapt over time based on environmental stimuli. This ability to create dynamic and responsive models will make Sourceduty a valuable player in industries requiring adaptive materials, such as healthcare, smart textiles, and advanced robotics​.
 
