@@ -1,3 +1,4 @@
+![3D Models](https://github.com/user-attachments/assets/6f1278fd-584e-488f-9e23-fc47e979647b)
 ![3D Model Shipping Label](https://github.com/user-attachments/assets/f123e9dd-dde6-43ba-a4b6-b4323fa4a636)
 
 > 3D models, printers and filament.
