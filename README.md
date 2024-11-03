@@ -153,6 +153,13 @@ Notes:
 - Glow in the dark filaments are very abrasive and wear down 3D printer nozzles quicker than normal.
 
 #
+### Remoisturizing Old Filament
+
+Old PLA filament to restore some of its flexibility and usability. Over time, PLA filament can become brittle and lose moisture, which can cause it to snap easily during printing. To remoisturize, you can place the filament spool in a humid environment or near a source of controlled moisture, like placing it in a container with a slightly damp sponge (without direct contact) to allow it to absorb moisture gradually. Another method is to leave the filament in a sealed container with a controlled humidity level for several hours or overnight to allow it to regain a stable moisture level. However, be cautious not to overdo it, as too much moisture can lead to printing issues like clogging or bubbling.
+
+Remoisturizing PLA filament is often a delicate balance, as too little moisture can make it brittle, while too much can compromise print quality. After remoisturizing, it’s essential to dry the filament correctly, typically by using a filament dryer or gently heating it at a low temperature (around 40-50°C) in an oven for a few hours. This helps to remove excess moisture while maintaining flexibility. Restoring old filament isn't always guaranteed to yield perfect results, as environmental factors and initial filament quality play a role. For critical or high-quality projects, it may be better to use fresh filament, but remoisturizing can be a useful method for general or less detailed prints.
+
+#
 
 ### Future 3D Printer Plastic Ideas
 
