@@ -73,7 +73,7 @@ The concept of 3D printer farming extends beyond traditional manufacturing appli
 #
 ### Sourceduty 3D Printing
 
-![3D Model Shipping](https://github.com/user-attachments/assets/916827cd-662e-4139-a10a-c56a4a817653)
+![LulzBot](https://github.com/user-attachments/assets/8fbdc01b-0561-495c-b297-ccbfa1f470ae)
 
 Sourceduty designs custom 3D models, utilizing platforms like Cults3D to distribute these models and operates through a collaborative framework that ensures fair distribution of designs and profits. The platform supports various 3D printing materials and methods, helping users produce high-quality, customizable parts, whether for hobbyist or professional use.
 
@@ -215,7 +215,7 @@ The gantry system, often supported by the frame, is responsible for the actual m
 
 > Alex: "*A lot could change with some money or connections to existing businesses in the 3D printing industry.*"
 
-> "*Lulzbot and Ultimaker are the only 3D printer brads that I would buy right now, maybe Anker.*"
+> "*LulzBot and Ultimaker are the only 3D printer brads that I would buy right now, maybe Anker.*"
 
 #
 
@@ -226,6 +226,8 @@ The gantry system, often supported by the frame, is responsible for the actual m
 ![Meme](https://github.com/user-attachments/assets/6625d808-8c0a-4a8b-8dba-00ec1609c072)
 #
 ![3D Dirt](https://github.com/user-attachments/assets/be0fb4d8-f832-4a23-9e26-1bea38ce814e)
+#
+![3D Model Shipping](https://github.com/user-attachments/assets/916827cd-662e-4139-a10a-c56a4a817653)
 
 #
 ### Related Links
