@@ -215,7 +215,7 @@ The gantry system, often supported by the frame, is responsible for the actual m
 
 > Alex: "*A lot could change with some money or connections to existing businesses in the 3D printing industry.*"
 
-> "*LulzBot and Ultimaker are the only 3D printer brads that I would buy right now, maybe Anker.*"
+> "*LulzBot and Ultimaker are the only 3D printer brands that I would buy right now, maybe Anker.*"
 
 #
 
