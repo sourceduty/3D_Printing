@@ -205,7 +205,7 @@ However, there are challenges with extruding metals through standard 3D printer 
 #
 ### Frame Structure
 
-![Gantry](https://github.com/user-attachments/assets/09e31fbc-88d0-4fb8-9acd-a3a9bbd486b5)
+![Gantry](https://github.com/user-attachments/assets/9328f71e-1450-4eee-8f00-2b2eb5d00b21)
 
 The gantry and frame form the essential structural components of a 3D printer, particularly in Cartesian-style models that operate along the X, Y, and Z axes. The frame serves as the foundational skeleton, providing the necessary rigidity and stability to support the entire printing process. Often constructed from materials such as aluminum or steel, the frame must be robust to minimize vibrations and ensure precision in positioning, which is critical for maintaining the accuracy and quality of printed parts. A well-built frame enables smoother motion across the axes and holds the printer components securely in place, reducing the chance of misalignment or distortion in the print. Additionally, the frame's design influences the printer's durability and the range of motion allowed for the gantry, which directly impacts the maximum print volume and quality.
 
