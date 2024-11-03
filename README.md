@@ -204,18 +204,16 @@ However, there are challenges with extruding metals through standard 3D printer 
 
 #
 
+> Alex: "*A lot could change with some money or connections to existing businesses in the 3D printing industry.*"
+
+#
+
 ![Green Uzi](https://github.com/user-attachments/assets/3545c8f8-e38b-4537-9311-a9ad0e1dee9d)
-
 #
-
 ![3D](https://github.com/user-attachments/assets/4b42a3a4-8515-4660-b734-748ed6048128)
-
 #
-
 ![Meme](https://github.com/user-attachments/assets/6625d808-8c0a-4a8b-8dba-00ec1609c072)
-
 #
-
 ![3D Dirt](https://github.com/user-attachments/assets/be0fb4d8-f832-4a23-9e26-1bea38ce814e)
 
 #
